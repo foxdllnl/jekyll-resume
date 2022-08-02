@@ -1,52 +1,36 @@
 ---
-title: "C'thulhu Resume"
+title: "Not my Resume"
 layout: resume
 ---
 
-# C'thulhu
+# Example Person
 
-> I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
+> Practicing markdown and a Jekyll Resume Template
 
 ## Education
 
-### **Withering Madness University** Planet Vhoorl
+### School of Life
 
-**Major:** Public Relations
-
-**Minor:** Scale Tending
+**Major:** Hard Knocks
 
 ## Skills
 
-### **Office skills**
-
-Office and records management, database administration, event organization, customer support, travel coordination
-
 ### **Computer skills**
 
-Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
+HPC, Linux, Ansible, Git, Kubernetes
 
 ## Experience
 
-### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
+### Lots <span>1997&ndash;Present</span>
 
-- Inspired and won highest peasant death competition among servants
-- Helped coordinate managers to grow cult following
-- Provided untimely deaths to all who opposed
-
-### **Bartender/Server** The Watering Hole, Milwaukee, WI <span>2009</span>
-
-- Worked on grass-roots promotional campaigns
-- Reduced theft and property damage percentages
-- Janitorial work, Laundry
+- HPC Linux Clusters
+- Openshift Clusters
 
 ## Hobbies
 
-World Domination, Deep Sea Diving, Murder Most Foul
+Basketball, Skiing 
 
 ## References
 
 Available on request
 
-## Links
-
-<a href="https://github.com/gonsie/Cthulu-Resume"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>Find This on GitHub</a>
