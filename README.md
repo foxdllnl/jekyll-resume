@@ -2,6 +2,10 @@
 
 This resume is a reimplementation of  [gonsie/cthulu-resume](https://github.com/gonsie/cthulu-resume) for Jekyll.
 
+## My rendered site is
+
+https://foxdllnl.github.io/jekyll-resume/resume.html
+
 ## Usage
 
 Install the following 2 files into an existing Jekyll project.
